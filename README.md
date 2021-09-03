@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=2e2c2f&height=300&section=header&text=TAESUB%20YUN&fontSize=130&fontColor=b2ff9e)
+
 
 ### Hi there 👋
 
@@ -19,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![header](https://capsule-render.vercel.app/api?type=react)
+
 
 
 
