@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=Hi,there!)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=#7e57c2)
+
 ### Hi there 👋
 
 <!--
