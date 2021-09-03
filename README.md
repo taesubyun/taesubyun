@@ -1,10 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
-![header](https://capsule-render.vercel.app/api?color=auto)
-
-![header](https://capsule-render.vercel.app/api?text=HI, THERE!)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=#7bed9f)
-
-
 
 ### Hi there 👋
 
