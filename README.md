@@ -7,8 +7,7 @@
 ### Welcome to my github 🙌 
 ***I am trying to become a software developer 🖥***
 <hr />
-- 📮  HOW TO REACH ME : taesubyun@icloud.com / atsyun0812@gmail.com <br />
-- 📲  SOCIAL INFORMATION : <a href="www.facebook.com/taesubyun0812" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=FACEBOOK&logoColor=white"/></a>
+- 📮  HOW TO REACH ME : taesubyun@icloud.com / atsyun0812@gmail.com <br /><a href="www.facebook.com/taesubyun0812" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=FACEBOOK&logoColor=white"/></a>
 <a href="www.linkedin.com/in/taesub-yun-51baa9220" target="_blank"><img src="https://img.shields.io/badge/linkedin-1877F2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/taesubyun/taesubyun" target="_blank"><img src="https://img.shields.io/badge/github-171010?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/tsyun0812/" target="_blank"><img src="https://img.shields.io/badge/instagram-5851DB?style=flat- square&logo=instagram&logoColor=pink"/></a>
