@@ -1,19 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=00000f&height=300&section=header&text=TAESUB%20YUN&animation=scaleIn&fontSize=80&fontColor=FFFCBF)
+![taesubyun](https://user-images.githubusercontent.com/72742121/133242167-8fbf7581-17d1-4052-9c0b-6ac9e69b5e99.png)
 
 
-### HI THERE 🤚
-
-### ▶︎ WHO AM I ... ? 
-- I'm from South Korea
+<div align="center">
 
 
+### Welcome to my github 🙌 
+***I am trying to become a software developer 🖥***
+<hr />
+- 📮  HOW TO REACH ME : taesubyun@icloud.com / atsyun0812@gmail.com <br />
+- 📲  SOCIAL INFORMATION : <a href="www.facebook.com/taesubyun0812" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=FACEBOOK&logoColor=white"/></a>
+<a href="www.linkedin.com/in/taesub-yun-51baa9220" target="_blank"><img src="https://img.shields.io/badge/linkedin-1877F2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/taesubyun/taesubyun" target="_blank"><img src="https://img.shields.io/badge/github-171010?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/tsyun0812/" target="_blank"><img src="https://img.shields.io/badge/instagram-5851DB?style=flat- square&logo=instagram&logoColor=pink"/></a>
 
+</div>
 
-
-
-###  HOW TO REACH ME? 🤔
-- 📮  **Email** : taesubyun@icloud.com / atsyun0812@gmail.com
- 
+<!-- 
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,8 +27,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 
+ -->
 
 <!-- 뺼 지 말 지 일 단 보 류
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TAESUBYUN&bg_color=2e2c2f&color=b2ff9e&line=ffffff&point=d1495b&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
