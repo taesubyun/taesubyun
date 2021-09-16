@@ -1,5 +1,4 @@
-![taesubyun](https://user-images.githubusercontent.com/72742121/133242167-8fbf7581-17d1-4052-9c0b-6ac9e69b5e99.png)
-
+![1](https://user-images.githubusercontent.com/72742121/133668836-0e714d7c-65ae-453c-bc37-d8de6d4ec41f.png)
 
 <div align="center">
 
