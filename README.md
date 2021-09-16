@@ -1,4 +1,5 @@
-![1](https://user-images.githubusercontent.com/72742121/133668836-0e714d7c-65ae-453c-bc37-d8de6d4ec41f.png)
+![스크린샷 2021-09-17 오전 4 26 13](https://user-images.githubusercontent.com/72742121/133673356-e4b4fbb6-10fc-4ac4-8c8b-fd6ad299f227.png)
+
 
 <div align="center">
 
