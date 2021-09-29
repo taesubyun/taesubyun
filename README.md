@@ -5,8 +5,8 @@
 <div align="center">
 
 
-### Welcome to my github 🙌 
-***I am trying to become a software developer 🖥***
+### HI, THERE 🙌 
+
 <hr />
 - 📮  HOW TO REACH ME : taesubyun@icloud.com / atsyun0812@gmail.com <br /><a href="http://www.facebook.com/taesubyun0812" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=FACEBOOK&logoColor=white"/></a>
 <a href="http://www.linkedin.com/in/taesub-yun-51baa9220" target="_blank"><img src="https://img.shields.io/badge/linkedin-1877F2?style=flat-square&logo=linkedin&logoColor=white"/></a>
