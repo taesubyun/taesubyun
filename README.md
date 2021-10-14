@@ -6,6 +6,7 @@
 
 
 ### HI, THERE 🙌 
+📝 열심히 배우고 있는 중  ...
 
 <hr />
 - 📮  HOW TO REACH ME : taesubyun@icloud.com / atsyun0812@gmail.com <br /><a href="http://www.facebook.com/taesubyun0812" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=FACEBOOK&logoColor=white"/></a>
