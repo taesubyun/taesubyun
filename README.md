@@ -8,7 +8,7 @@
 ### HI, THERE 🙌    
 ...  MY NAME IS TAESUB YUN 🤚
  
-열심히 배우고 있는 중 🖥. ...
+하루하루 최선을 다해  🖥. ...
 
 
 ___
