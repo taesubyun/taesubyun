@@ -1,4 +1,5 @@
-![스크린샷 2021-10-19 오전 1 00 46](https://user-images.githubusercontent.com/72742121/137767403-2d29913b-ba39-40f5-a1b6-bbc281702823.png)
+![스크린샷 2021-10-19 오전 1 02 41](https://user-images.githubusercontent.com/72742121/137767674-b5729ed9-b53f-426f-a6af-107d0487034c.png)
+
 
 
 ### Welcom to my Github ✅  Hello, I'm Taesub Yun 👋
