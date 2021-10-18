@@ -5,16 +5,16 @@
 
 🎁   __Project__
 
-- Coming Soon
+- Soon
 
 💻  __I'm currently learning about__
 - Single Page Application
 - Fronted & Backend Basic
-- Backend & Computer Science
+- __Backend & Computer Science__  (currently in progress)
 
-📮  How to reach me : taesubyun@icloud.com / atsyun0812@gmail.com
+📨  How to reach me : taesubyun@icloud.com / atsyun0812@gmail.com
 
-📑  __If you want to see my records, please refer to my notion__
+💡  __If you want to see my records, please refer to my notion__
 
 
 
