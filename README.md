@@ -1,28 +1,27 @@
 ![스크린샷 2021-09-19 오후 10 02 06](https://user-images.githubusercontent.com/72742121/133928549-2d1bd102-2169-45e4-90df-334877435c7d.png)
 
+### Welcom to my Github ✅  Hello, I'm Taesub Yun 👋
+🙍🏻‍♂️  I'm living in dreams of being a developer  🙋🏻‍♂️
+
+🎁   __Project__
+
+- Coming Soon
+
+📑  __I'm currently learning about__
+- Single Page Application
+- Fronted & Backend Basic
+- Backend & Computer Science
+
+📮    How to reach me : taesubyun@icloud.com / atsyun0812@gmail.com
+
+📑    ___If u want to see my records, please refer to my notion___
 
 
-<div align="center">
 
-
-### HI, THERE 🙌    
-...  MY NAME IS TAESUB YUN 🤚
- 
-하루하루 최선을 다해  🖥. ...
-
-
-___
-● IF YOU WANT TO SEE MY RECORDS📝 ,PLEASE REFER TO NOTION ⭕️  
- 
-● HOW TO REACH ME📮 : taesubyun@icloud.com / atsyun0812@gmail.com
- 
 <a href="https://www.notion.so/4b328cc6afa24382898a9556df2f5d79" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 <a href="http://www.facebook.com/taesubyun0812" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="http://www.linkedin.com/in/taesub-yun-51baa9220" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/tsyun0812/" target="_blank"><img src="https://img.shields.io/badge/Instgram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
-</div>
-
 <!-- 
 
 
