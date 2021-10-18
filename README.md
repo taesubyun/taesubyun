@@ -7,14 +7,14 @@
 
 - Coming Soon
 
-📑  __I'm currently learning about__
+💻  __I'm currently learning about__
 - Single Page Application
 - Fronted & Backend Basic
 - Backend & Computer Science
 
-📮    How to reach me : taesubyun@icloud.com / atsyun0812@gmail.com
+📮  How to reach me : taesubyun@icloud.com / atsyun0812@gmail.com
 
-📑    ___If u want to see my records, please refer to my notion___
+📑  __If you want to see my records, please refer to my notion__
 
 
 
