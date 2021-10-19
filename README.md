@@ -14,9 +14,9 @@
 - Fronted & Backend Basic
 - __Backend & Computer Science__  (currently in progress)
 
-📨  How to reach me : taesubyun@icloud.com / atsyun0812@gmail.com
+📨  Contact Info : taesubyun@icloud.com / atsyun0812@gmail.com
 
-💡  __If you want to see my records, please refer to my notion__
+(💡***If you want to see my records, please refer to my notion***)
 
 
 
