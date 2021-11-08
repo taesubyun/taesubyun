@@ -11,11 +11,12 @@
 💻  __I'm currently learning about__
 - Single Page Application
 - Fronted & Backend Basic
-- __Backend & Computer Science__  (currently in progress)
+- Backend & Computer Science  
+- __First Project__ :: 💻 currently in progress 
 
 📨  Contact Info : taesubyun@icloud.com / atsyun0812@gmail.com
 
-(💡***If you want to see my records, please refer to my notion***)
+☘️ **If you want to see my records, please refer to my notion**
 
 
 
