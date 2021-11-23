@@ -13,7 +13,7 @@
 - Single Page Application
 - Fronted & Backend Basic
 - Backend & Computer Science  
-- __First Project__ - ☑️ currently in progress 
+- __Project__ - ☑️ currently in progress 
 
 📨  Contact Info : taesubyun@icloud.com / atsyun0812@gmail.com
 
