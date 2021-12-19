@@ -14,7 +14,7 @@
 - Backend & Computer Science  
 - __Project__ - ☑️ currently in progress 
 
-📨  Contact Info : taesubyun@icloud.com / atsyun0812@gmail.com
+📨  Contact Info : taesubyun@icloud.com
 
 ☘️ **If you want to see my records, please refer to my notion**
 
