@@ -1,4 +1,4 @@
-<img width="879" alt="스크린샷 2021-12-14 오후 10 28 00" src="https://user-images.githubusercontent.com/72742121/146007289-4cd3942e-a71c-457e-a27d-b3ed75180d67.png">
+<img width="880" alt="스크린샷 2021-12-29 오후 4 10 16" src="https://user-images.githubusercontent.com/72742121/147636362-4547889d-0b51-41bc-bf20-6dbec62843b6.png">
 
 
 ### Welcom to my Github ✅  Hello, I'm Taesub Yun 👋
