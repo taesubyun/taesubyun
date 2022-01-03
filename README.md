@@ -6,13 +6,13 @@
 
 🎁   __Project__
 
-- Soon
+- https://dmu8og75yrjcf.cloudfront.net/ 🐶
+
 
 💻  __I'm currently learning about__
 - Single Page Application
 - Fronted & Backend Basic
 - Backend & Computer Science  
-- __Project__ - ☑️ currently in progress 
 
 📨  Contact Info : taesubyun@icloud.com
 
