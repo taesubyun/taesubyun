@@ -1,5 +1,4 @@
-![스크린샷 2022-01-13 오후 5 54 45](https://user-images.githubusercontent.com/72742121/149297750-a26ceb16-1e57-4495-931d-aa894e23a9c7.png)
-
+<img width="844" alt="스크린샷 2022-01-13 오후 11 43 23" src="https://user-images.githubusercontent.com/72742121/149351254-88cd3210-02e3-4c32-b19f-53365ded5208.png">
 
 
 ### Welcome to my Github ✅  
