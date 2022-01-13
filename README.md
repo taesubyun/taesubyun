@@ -1,5 +1,4 @@
-<img width="844" alt="스크린샷 2022-01-13 오후 11 43 23" src="https://user-images.githubusercontent.com/72742121/149351254-88cd3210-02e3-4c32-b19f-53365ded5208.png">
-
+<img width="843" alt="스크린샷 2022-01-13 오후 11 50 55" src="https://user-images.githubusercontent.com/72742121/149352585-5d5e9918-2fc5-48fc-9be3-2516bdfc3ba7.png">
 
 ### Welcome to my Github ✅  
 🙍🏻‍♂️ Hello, I'm Taesub Yun 👋 who is interested in Frontend Developer from South Korea 🙋🏻‍♂️
