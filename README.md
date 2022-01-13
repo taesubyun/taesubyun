@@ -2,17 +2,16 @@
 
 
 
-### Welcom to my Github ✅  
-🙍🏻‍♂️ Hello, I'm Taesub Yun 👋 who is interested in Font-end Developer from South korea 🙋🏻‍♂️
+### Welcome to my Github ✅  
+🙍🏻‍♂️ Hello, I'm Taesub Yun 👋 who is interested in Frontend Developer from South Korea 🙋🏻‍♂️
 
 🎁   __Project__
 
 - https://dmu8og75yrjcf.cloudfront.net/ 🐶
 
-
 💻  __I'm currently learning about__
 - Single Page Application
-- Fronted & Backend Basic
+- Frontend & Backend Basic
 - Backend & Computer Science  
 
 
