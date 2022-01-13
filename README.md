@@ -15,7 +15,7 @@
 - Backend & Computer Science  
 
 
-📨  Contact Info : taesubyun@icloud.com
+📨  Contact Info : atsyun0812@gmail.com
 
 ☘️ **If you want to see my records, please refer to my notion**
 
@@ -26,4 +26,4 @@
   
   
 ![Taesubyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=taesubyun&theme=buefy&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taesubyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
