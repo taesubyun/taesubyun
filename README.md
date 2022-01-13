@@ -25,6 +25,6 @@
 <a href="http://www.linkedin.com/in/taesub-yun-51baa9220" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
   
-![Taesubyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=taesubyun&theme=midnight-purple&show_icons=true)
+![Taesubyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=taesubyun&theme=buefy&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taesubyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
