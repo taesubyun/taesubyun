@@ -26,4 +26,6 @@
 <a href="http://www.facebook.com/taesubyun0812" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="http://www.linkedin.com/in/taesub-yun-51baa9220" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taesubyun&theme=midnight-purple&show_icons=true)
+  
+![Taesubyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=taesubyun&theme=midnight-purple&show_icons=true)
+  
