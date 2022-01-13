@@ -1,4 +1,4 @@
-<img width="879" alt="스크린샷 2022-01-11 오후 8 56 35" src="https://user-images.githubusercontent.com/72742121/148938455-8e96d478-7205-4d91-83d3-1675c41a9bdf.png">
+![스크린샷 2022-01-13 오후 5 54 45](https://user-images.githubusercontent.com/72742121/149297750-a26ceb16-1e57-4495-931d-aa894e23a9c7.png)
 
 
 
