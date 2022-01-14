@@ -3,7 +3,7 @@
 ### Welcome to my Github ✅  
 🙍🏻‍♂️ Hello, I'm Taesub Yun 👋 who is interested in Frontend Developer from South Korea 🙋🏻‍♂️
 
-🎁   __Project__
+🗂   __Project__
 
 - https://dmu8og75yrjcf.cloudfront.net/ 🐶
 
@@ -13,7 +13,7 @@
 - Backend & Computer Science  
 
 
-📨  Contact Info : atsyun0812@gmail.com
+📬  Contact Info : atsyun0812@gmail.com
 
 ☘️ **If you want to see my records, please refer to my notion**
 
