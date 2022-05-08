@@ -1,9 +1,10 @@
+<h2>소개 🙋🏻‍</h2>
 
-<h2 align="center">소개 🙋🏻‍♂️</h2>
-<h3 align="center">윤태섭 Taesubyun</h3>
-<h4 align="center">atsyun0812@gmail.com<h4>
+<h3>윤태섭 Taesubyun</h3>
+atsyun0812@gmail.com
 
-<h3 align="center">프로젝트 🧾</h3>
+<h2>프로젝트 📋</h3>
+
 - https://dmu8og75yrjcf.cloudfront.net/ 🐶
 - https://smoothy.io/ ㎋T
 
