@@ -1,5 +1,3 @@
-![IMG_1248](https://user-images.githubusercontent.com/72742121/167822077-9cbc018c-44e8-4ba3-a6d0-4038b419fd05.png)
-
 <h2>소개 🙋🏻‍</h2>
 
 <h3>윤태섭 Taesubyun</h3>
