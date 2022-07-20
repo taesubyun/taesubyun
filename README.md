@@ -6,7 +6,7 @@ atsyun0812@gmail.com
 <h2>프로젝트 📋</h3>
 
 - https://dmu8og75yrjcf.cloudfront.net/ 🐶
-- https://smoothy.io/ ㎋T
+- https://smoothy.io/ 🧩
 
 <h2>스택 🛠</h2>
   
