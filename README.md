@@ -1,4 +1,5 @@
 <div align="center">
+<img width="829" alt="스크린샷 2022-08-08 오후 8 02 35" src="https://user-images.githubusercontent.com/72742121/183403828-6acb820a-75d2-4a5c-bd5f-73fe68950df3.png">
 <h3>🙋🏻‍ 소개</h3>
 
 윤태섭 | Taesubyun
