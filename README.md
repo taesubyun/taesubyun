@@ -27,8 +27,7 @@ https://smoothy.io/
 <a href="http://www.linkedin.com/in/taesub-yun-51baa9220" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
   ![taesubyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=taesubyun&show_icons=true&theme=codeSTACKr_icons=true)
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)  
+ 
   </div>
   
 
