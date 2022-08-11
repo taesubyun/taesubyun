@@ -24,7 +24,7 @@ https://smoothy.io/
 
 <h3>🔗 링크</h3>
 
-<a href="https://www.notion.so/5161fa19243c49438c4887308face160" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://mercury-act-6a5.notion.site/5161fa19243c49438c4887308face160" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="http://www.linkedin.com/in/taesub-yun-51baa9220" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
   ![taesubyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=taesubyun&show_icons=true&theme=codeSTACKr_icons=true)
